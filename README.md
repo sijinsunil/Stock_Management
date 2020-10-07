@@ -1,1 +1,1 @@
-Stock Management System by c#.net and MSSQL
+Stock Management System by C#.net and MSSQL
