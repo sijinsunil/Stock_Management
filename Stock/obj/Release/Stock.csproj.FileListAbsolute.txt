@@ -1,0 +1,15 @@
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\bin\Release\Stock.exe.config
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\bin\Release\Stock.exe.manifest
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\bin\Release\Stock.application
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\bin\Release\Stock.exe
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\bin\Release\Stock.pdb
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Release\Stock.Form1.resources
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Release\Stock.Properties.Resources.resources
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Release\Stock.csproj.GenerateResource.cache
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Release\Stock.exe.manifest
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Release\Stock.application
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Release\Stock.exe
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Release\Stock.pdb
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Release\Stock.csprojAssemblyReference.cache
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\bin\Release\Database.mdf
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\bin\Release\Database_log.ldf

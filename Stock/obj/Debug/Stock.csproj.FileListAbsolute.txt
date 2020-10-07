@@ -1,0 +1,15 @@
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Debug\Stock.Form1.resources
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.cache
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\bin\Debug\Stock.exe.manifest
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\bin\Debug\Stock.application
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Debug\Stock.exe.manifest
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Debug\Stock.application
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\bin\Debug\Database.mdf
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\bin\Debug\Database_log.ldf
+C:\Users\SIJIN S\Source\Repos\Stock\Stock\obj\Debug\Stock.csprojAssemblyReference.cache
